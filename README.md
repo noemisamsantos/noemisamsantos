@@ -39,7 +39,7 @@ Wireframes and data flow diagrams for a multi-vendor toy marketplace.
 
 <img src="https://raw.githubusercontent.com/noemisamsantos/ToyHaven/main/03-home.png" width="300">
 
-📁 [See wireframes and DFDs](https://github.com/noemisamsantos/ToyHaven)
+🌐 [View live site](https://onlineetoys.web.app/) · 📁 [See wireframes and DFDs](https://github.com/noemisamsantos/ToyHaven)
 
 ---
 
